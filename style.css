@@ -1,0 +1,68 @@
+*{
+	padding: 0;
+	margin:0;
+	font-family: sans-serif;
+}
+
+.menu2{
+	width: 116px;
+	height: 100vh;
+	background-color: white;
+	padding: 0;
+	margin:0;
+	box-shadow: 10px 0px 0px 0px lightgrey;
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 100;
+	overflow-y: auto;
+}
+.main-content{
+	position: relative;
+}
+#first{
+	height: 120px;
+	background: white;
+	border-bottom: 1px thin #DCDCDC;
+
+}
+
+#second{
+	padding-top: 35px;
+	padding-right: 200px;
+	display: flex;
+	padding-bottom: 40px;
+}
+main{
+    background-color: #f5f7f7;
+    height: 85vh;
+    padding-left: 10rem;
+}
+#third{
+	padding-left: 10rem;
+	padding-bottom: 2rem;
+}
+#searchBar{
+	border-radius: 8px;
+	border: 0px;
+	width: 50rem;
+	height: 7px;
+	padding: 1rem;
+	box-shadow: 5px 5px 5px 5px #D3D3D3;
+}
+#forth{
+	padding-left: 35rem;
+}
+#box{
+	padding-left: 10rem;
+}
+#fifth{
+	display: block;
+	width: 10rem;
+	height: 10rem;
+	background: white;
+}
+h5{
+	padding-top: 4rem;
+	text-align: center;
+}
